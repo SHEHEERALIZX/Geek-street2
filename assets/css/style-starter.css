@@ -12220,3 +12220,11 @@ body:after {
     padding-top: 60px; } }
 
 /*# sourceMappingURL=style-starter.css.map */
+#more {display: none;}
+
+.btncolor{
+padding: 0;
+border: none;
+background: none;
+color:#35a22c;
+}
